@@ -1,0 +1,5 @@
+
+Paste several paragraphs (the more the better) of text in a consistent style:
+your own blog posts, lecture notes, a character's dialogue, song lyrics you
+wrote, etc. A few hundred lines will give noticeably better results than
+30 lines.
